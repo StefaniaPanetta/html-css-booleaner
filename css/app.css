@@ -1,7 +1,40 @@
 header{
     background-image:url(../img/pattern.png);
+    background-color: lightblue;
 }
 .logo{
     width: 200px;
     padding: 50px;
+}
+.subtitle{
+    color: blue;
+}
+.didascalia{
+    font-size: small;
+    line-height: 0;
+}
+.table-head{
+    background-color:#7fa6fb;
+    color: white;
+}
+.table-line{
+    background-color:#dfe5f2;
+}
+table{
+    width: 100%;
+    text-align: left;
+    padding-bottom: 40px;
+}
+td{
+    padding: 5px;
+}
+footer{
+    background-color: #313a6b;
+    text-align: center;
+    color: white;
+    padding: 5px;
+}
+section{
+    line-height: 0%;
+    padding: 20px;
 }
