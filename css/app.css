@@ -1,3 +1,7 @@
+body{
+    margin: 0%;
+}
+
 header{
     background-image:url(../img/pattern.png);
     background-size: contain;
@@ -5,9 +9,7 @@ header{
 }
 .logo{
     width: 200px;
-    margin-left: 10%;
-    margin-top: 2%;
-    margin-bottom: 2%;
+    padding: 40px 10px;
 }
 .subtitle{
     color: blue;
