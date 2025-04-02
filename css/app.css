@@ -14,9 +14,8 @@ header{
 .subtitle{
     color: blue;
 }
-.didascalia{
-    font-size: small;
-    line-height: 0;
+.article-images{
+    margin: 20px 0;
 }
 .table-head{
     background-color:#7fa6fb;
