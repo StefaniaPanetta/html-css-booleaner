@@ -1,5 +1,5 @@
 body{
-    margin: 0%;
+    margin: 0;
 }
 
 header{
@@ -39,7 +39,7 @@ footer{
     padding: 5px;
 }
 div{
-    line-height: 0%;
+    line-height: 0;
     padding-top: 20px;
     padding-bottom: 20px;
 }
